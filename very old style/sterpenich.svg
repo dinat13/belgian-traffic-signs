@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3330.595 1459.542">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 160px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-5, .cls-6, .cls-7, .cls-9 {
+        font-family: Alfphabet-I, Alfphabet;
+      }
+
+      .cls-2 {
+        letter-spacing: .1em;
+      }
+
+      .cls-2, .cls-7 {
+        font-size: 220px;
+      }
+
+      .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-10 {
+        fill: #164b7f;
+      }
+
+      .cls-5 {
+        font-size: 191.969px;
+        letter-spacing: .02em;
+      }
+
+      .cls-11 {
+        letter-spacing: .02em;
+      }
+
+      .cls-6 {
+        font-size: 182px;
+        letter-spacing: .02em;
+      }
+
+      .cls-7, .cls-8 {
+        letter-spacing: .025em;
+      }
+
+      .cls-12 {
+        fill: #326fb7;
+      }
+
+      .cls-8 {
+        font-family: Alfphabet-III, Alfphabet;
+        font-size: 270px;
+      }
+
+      .cls-13 {
+        fill: #00843c;
+      }
+
+      .cls-9 {
+        font-size: 179.815px;
+        letter-spacing: .01em;
+        opacity: .98;
+      }
+    </style>
+  </defs>
+  <g id="Calque_3" data-name="Calque 3">
+    <rect class="cls-12" x="2041.786" width="1288.809" height="1459.542" rx="43.344" ry="43.344"/>
+    <rect class="cls-3" x="2055.863" y="16.025" width="1260.655" height="1427.492" rx="70.632" ry="70.632"/>
+    <rect class="cls-12" x="2067.733" y="27.895" width="1236.914" height="1403.751" rx="60.001" ry="60.001"/>
+    <path class="cls-4" d="M2244.404,1387.141h86.593V447.832c0-2.702,2.19-4.893,4.893-4.893h113.531c4.364,0,6.544-5.281,3.452-8.36l-161.336-160.622c-1.909-1.9-4.995-1.9-6.904,0l-161.336,160.622c-3.093,3.079-.912,8.36,3.452,8.36h112.764c2.702,0,4.893,2.19,4.893,4.893v939.309Z"/>
+    <path class="cls-4" d="M2294.784,1171.452l8,76,476.867-293.242c2.291-1.409,5.29-.704,6.714,1.578l34.342,55.05c2.31,3.703,7.944,2.758,8.92-1.496l30.475-132.894c.602-2.625-1.031-5.244-3.654-5.857l-132.757-31.064c-4.249-.994-7.576,3.651-5.266,7.353l33.982,54.472c1.465,2.348.692,5.442-1.704,6.826l-455.918,263.273Z"/>
+    <text class="cls-5" transform="translate(2686.19 1375.215)"><tspan x="0" y="0">500m</tspan></text>
+    <text class="cls-1" transform="translate(2442.66 600.311)"><tspan class="cls-11"><tspan x="0" y="0">Sterpenich</tspan></tspan><tspan x="143.678" y="170">Clémency</tspan></text>
+    <g>
+      <g>
+        <rect class="cls-13" x="2169.437" y="611.105" width="237.658" height="168.888" rx="17.106" ry="17.106"/>
+        <path class="cls-3" d="M2389.989,615.605c6.951,0,12.606,5.655,12.606,12.606v134.676c0,6.951-5.655,12.606-12.606,12.606h-203.445c-6.951,0-12.606-5.655-12.606-12.606v-134.676c0-6.951,5.655-12.606,12.606-12.606h203.445M2389.989,606.605h-203.445c-11.933,0-21.606,9.673-21.606,21.606v134.676c0,11.933,9.674,21.606,21.606,21.606h203.445c11.933,0,21.606-9.673,21.606-21.606v-134.676c0-11.933-9.673-21.606-21.606-21.606h0Z"/>
+      </g>
+      <text class="cls-9" transform="translate(2183.705 760.793)"><tspan x="0" y="0">E9</tspan></text>
+    </g>
+    <text class="cls-6" transform="translate(2122.036 221.517)"><tspan x="0" y="0">Luxembourg</tspan></text>
+    <rect class="cls-10" y="668.65" width="1418.809" height="749.542" rx="43.344" ry="43.344"/>
+    <rect class="cls-3" x="14.077" y="684.675" width="1390.655" height="717.492" rx="70.632" ry="70.632"/>
+    <rect class="cls-10" x="25.947" y="696.545" width="1366.914" height="693.751" rx="60.001" ry="60.001"/>
+    <text class="cls-2" transform="translate(370.211 1351.604)"><tspan x="0" y="0">500m</tspan></text>
+    <text class="cls-7" transform="translate(407.777 1138.708)"><tspan x="0" y="0">Arlon</tspan></text>
+    <text class="cls-8" transform="translate(156.215 933.883)"><tspan x="0" y="0">Sterpenich</tspan></text>
+  </g>
+</svg>

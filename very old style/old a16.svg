@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 814.983 458.432">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 36.979px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        font-family: Alfphabet-I, Alfphabet;
+      }
+
+      .cls-5 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-5, .cls-6 {
+        font-size: 23.423px;
+      }
+
+      .cls-6 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-7, .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-8 {
+        font-size: 15.616px;
+        letter-spacing: -.09em;
+      }
+
+      .cls-9, .cls-10 {
+        fill: #196624;
+      }
+
+      .cls-3 {
+        fill: #1d1d1b;
+      }
+
+      .cls-11 {
+        font-size: 12px;
+        letter-spacing: -.09em;
+      }
+
+      .cls-12 {
+        stroke-width: 2px;
+      }
+
+      .cls-12, .cls-10 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-12, .cls-13 {
+        fill: #275ead;
+      }
+
+      .cls-4 {
+        font-size: 35.55px;
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-13" y="39.391" width="418.668" height="127.37"/>
+  <rect class="cls-12" x="3.5" y="43.551" width="411.668" height="119.051" rx="4.79" ry="4.79"/>
+  <path class="cls-7" d="M54.404,125.795c1.016-1.417-.028-3.773-1.396-3.153l-10.496,4.265c-.886.401-1.796-.516-1.796-1.81V58.565s-11.002,0-11.002,0v66.532c0,1.294-.91,2.211-1.796,1.81l-10.496-4.265c-1.369-.62-2.412,1.736-1.396,3.153l18.606,21.456c.321.448.844.448,1.165,0l18.606-21.456Z"/>
+  <path class="cls-7" d="M402.63,125.795c1.016-1.417-.028-3.773-1.396-3.153l-10.496,4.265c-.886.401-1.796-.516-1.796-1.81V58.565s-11.002,0-11.002,0v66.532c0,1.294-.91,2.211-1.796,1.81l-10.496-4.265c-1.369-.62-2.412,1.736-1.396,3.153l18.606,21.456c.321.448.844.448,1.165,0l18.606-21.456Z"/>
+  <rect class="cls-9" x="188.489" y="130.109" width="41.69" height="25.663" rx="2.282" ry="2.282"/>
+  <rect class="cls-10" x="189.764" y="131.38" width="39.139" height="23.121" rx="1.209" ry="1.209"/>
+  <text class="cls-2" transform="translate(192.858 151.255)"><tspan class="cls-6" x="0" y="0">E</tspan><tspan class="cls-8" x="10.447" y="0"> </tspan><tspan class="cls-5" x="12.742" y="0">10</tspan></text>
+  <text class="cls-4" transform="translate(163.647 79.453)"><tspan x="0" y="0">Breda</tspan><tspan x="-38.412" y="37.92">Antwerpen</tspan></text>
+  <rect class="cls-13" x="436.316" width="378.668" height="165.457"/>
+  <rect class="cls-12" x="439.816" y="4.184" width="371.668" height="157.088" rx="4.79" ry="4.79"/>
+  <path class="cls-7" d="M800.866,56.719c.171,1.735-1.911,3.254-2.786,2.032l-6.957-8.942c-.566-.791-1.813-.451-2.46.67l-33.266,57.618-9.528-5.501,33.266-57.618c.647-1.121.318-2.37-.65-2.465l-11.222-1.554c-1.496-.147-1.221-2.709.367-3.429l26.841-9.278c.502-.228.955.034,1.009.583l5.385,27.884Z"/>
+  <rect class="cls-7" x="560.357" y="130.663" width="47.298" height="24.554" rx="2.282" ry="2.282"/>
+  <text class="cls-3" transform="translate(562.681 151.255)"><tspan class="cls-5" x="0" y="0">A</tspan><tspan class="cls-11" x="13.913" y="0"> </tspan><tspan class="cls-6" x="15.677" y="0">59</tspan></text>
+  <text class="cls-4" transform="translate(448.26 43.551)"><tspan x="0" y="0">Oosterhout</tspan><tspan x="0" y="37.92">Waalwijk</tspan><tspan x="0" y="75.841">‘s-Hertogenbosch</tspan></text>
+  <rect class="cls-13" x=".467" y="267.795" width="418.668" height="127.37"/>
+  <rect class="cls-12" x="3.967" y="271.955" width="411.668" height="119.051" rx="4.79" ry="4.79"/>
+  <path class="cls-7" d="M54.871,361.199c1.016-1.417-.028-3.773-1.396-3.153l-10.496,4.265c-.886.401-1.796-.516-1.796-1.81v-77.532s-11.002,0-11.002,0v77.532c0,1.294-.91,2.211-1.796,1.81l-10.496-4.265c-1.369-.62-2.412,1.736-1.396,3.153l18.606,21.456c.321.448.844.448,1.165,0l18.606-21.456Z"/>
+  <path class="cls-7" d="M403.097,361.199c1.016-1.417-.028-3.773-1.396-3.153l-10.496,4.265c-.886.401-1.796-.516-1.796-1.81v-77.532s-11.002,0-11.002,0v77.532c0,1.294-.91,2.211-1.796,1.81l-10.496-4.265c-1.369-.62-2.412,1.736-1.396,3.153l18.606,21.456c.321.448.844.448,1.165,0l18.606-21.456Z"/>
+  <text class="cls-4" transform="translate(164.114 307.857)"><tspan x="0" y="0">Breda</tspan><tspan x="-38.412" y="37.92">Antwerpen</tspan></text>
+  <rect class="cls-13" x="436.783" y="267.795" width="365.668" height="127.37"/>
+  <rect class="cls-12" x="440.283" y="271.93" width="358.668" height="119.05" rx="4.79" ry="4.79"/>
+  <path class="cls-7" d="M789.333,318.264c.171,1.735-1.911,3.254-2.786,2.032l-6.957-8.942c-.566-.791-1.813-.451-2.46.67l-33.266,57.618-9.528-5.501,33.266-57.618c.647-1.121.318-2.37-.65-2.465l-11.222-1.554c-1.496-.147-1.221-2.709.367-3.429l26.841-9.278c.502-.228.955.034,1.009.583l5.385,27.884Z"/>
+  <text class="cls-4" transform="translate(446.082 304.783)"><tspan x="0" y="0">Oosterhout</tspan><tspan x="0" y="37.92">Waalwijk</tspan><tspan x="0" y="75.841">‘s-Hertogenbosch</tspan></text>
+  <path class="cls-7" d="M228.984,368.622c1.016-.935-.028-2.488-1.396-2.079l-10.496,2.812c-.886.265-1.796-.34-1.796-1.193v-11.867s-11.002,0-11.002,0v11.867c0,.853-.91,1.458-1.796,1.193l-10.496-2.812c-1.369-.409-2.412,1.144-1.396,2.079l18.606,14.147c.321.296.844.296,1.165,0l18.606-14.147Z"/>
+  <text class="cls-1" transform="translate(157.075 215.412)"><tspan x="0" y="0">With route shields (unrealistic)</tspan></text>
+  <text class="cls-1" transform="translate(148.625 449.187)"><tspan x="0" y="0">Without route shields (realistic)</tspan></text>
+</svg>

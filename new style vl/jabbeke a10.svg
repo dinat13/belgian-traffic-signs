@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1013.177 973">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 44.813px;
+        letter-spacing: .015em;
+      }
+
+      .cls-2 {
+        letter-spacing: .03em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.012em;
+      }
+
+      .cls-4 {
+        letter-spacing: .002em;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15 {
+        font-size: 99.882px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.005em;
+      }
+
+      .cls-6 {
+        letter-spacing: .015em;
+      }
+
+      .cls-16, .cls-17, .cls-7, .cls-14, .cls-18, .cls-19, .cls-20 {
+        fill: #fff;
+      }
+
+      .cls-21 {
+        letter-spacing: .022em;
+      }
+
+      .cls-17 {
+        fill-rule: evenodd;
+      }
+
+      .cls-22, .cls-8, .cls-13 {
+        letter-spacing: .015em;
+      }
+
+      .cls-7, .cls-9, .cls-18, .cls-23, .cls-19, .cls-24 {
+        font-family: SnvBeckerCondensed, 'Snv Becker';
+      }
+
+      .cls-10 {
+        letter-spacing: .015em;
+      }
+
+      .cls-11 {
+        letter-spacing: .022em;
+      }
+
+      .cls-12 {
+        letter-spacing: .015em;
+      }
+
+      .cls-25 {
+        letter-spacing: .024em;
+      }
+
+      .cls-13, .cls-14 {
+        font-family: SnvBeckerRegular, 'Snv Becker';
+      }
+
+      .cls-26 {
+        letter-spacing: .007em;
+      }
+
+      .cls-15 {
+        letter-spacing: .002em;
+      }
+
+      .cls-18 {
+        font-size: 106.498px;
+        letter-spacing: .03em;
+      }
+
+      .cls-27 {
+        letter-spacing: .03em;
+      }
+
+      .cls-23 {
+        font-size: 93.493px;
+      }
+
+      .cls-28 {
+        fill: #143dc1;
+      }
+
+      .cls-20 {
+        font-family: Arial-BoldItalicMT, Arial;
+        font-size: 86.113px;
+        font-style: italic;
+        font-weight: 700;
+        letter-spacing: .015em;
+      }
+
+      .cls-29 {
+        fill: #00a650;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-30 {
+        letter-spacing: .007em;
+      }
+
+      .cls-31 {
+        font-size: 59.952px;
+        letter-spacing: .015em;
+      }
+    </style>
+  </defs>
+  <g id="Calque_4" data-name="Calque 4">
+    <g>
+      <rect class="cls-28" width="1013.177" height="973" rx="36.414" ry="36.414"/>
+      <rect class="cls-16" x="11.847" y="11.847" width="988.968" height="949.306" rx="23.589" ry="23.589"/>
+      <rect class="cls-28" x="22.149" y="22.149" width="968.364" height="928.702" rx="11.543" ry="11.543"/>
+    </g>
+    <path class="cls-17" d="M887.521,911.61h-50.959V260.602h-81.314l106.554-107.621,106.554,107.621h-80.835v651.008Z"/>
+    <path class="cls-17" d="M861.784,844.682l-8.212,32.842-318.656-79.683-12.355,49.408-48.968-82.036,81.818-49.332-12.282,49.117,318.656,79.683Z"/>
+    <text class="cls-16" transform="translate(296.129 376.336)"><tspan class="cls-13"><tspan x="0" y="0">Calais</tspan></tspan><tspan class="cls-24"><tspan class="cls-12" x="-251.404" y="95.291">Duin</tspan><tspan class="cls-4" x="-103.195" y="95.291">k</tspan><tspan class="cls-8" x="-66.241" y="95.291">e</tspan><tspan class="cls-11" x="-28.067" y="95.291">r</tspan><tspan class="cls-15" x="2.157" y="95.291">k</tspan><tspan class="cls-10" x="39.112" y="95.291">e</tspan><tspan class="cls-31" x="77.285" y="95.291"> </tspan></tspan></text>
+    <text class="cls-20" transform="translate(396.299 471.627) scale(.8 1)"><tspan x="0" y="0">(Dunkerque)</tspan></text>
+    <text class="cls-14" transform="translate(278.669 566.918)"><tspan class="cls-3" x="0" y="0">V</tspan><tspan class="cls-22" x="55.292" y="0">eu</tspan><tspan class="cls-25" x="158.756" y="0">r</tspan><tspan class="cls-22" x="197.759" y="0">ne</tspan></text>
+    <g>
+      <rect class="cls-16" x="218.912" y="594.926" width="435.249" height="80.354" rx="28.935" ry="28.935"/>
+      <text class="cls-9" transform="translate(327.088 668.533)"><tspan class="cls-27" x="0" y="0">Oo</tspan><tspan class="cls-21" x="85.977" y="0">s</tspan><tspan class="cls-27" x="124.869" y="0">tende</tspan></text>
+      <path d="M233.35,625.776h3.74l3.838,8.085c3.506-.675,7.363-1.264,11.61-1.221,2.552.044,4.539.044,7.09.109l-.02-6.384-8.317-22.031h3.838l18.778,28.677,8.396.044c1.5.022,2.805-.044,4.597.044,1.753.109,3.487.262,6.701,2.55-2.415,1.917-4.948,2.636-6.506,2.723-.993.044-4.539.109-4.753.109h-8.649l-18.934,27.631h-3.487l8.376-22.01v-6.494c-2.279.022-4.753.087-7.11.131-5.143.131-8.201-.697-11.61-1.176l-3.974,8.39h-3.604l1.305-8.76-1.13-1.003,1.071-.981-1.247-8.433Z"/>
+    </g>
+    <text class="cls-7" transform="translate(638.383 122.272)"><tspan class="cls-22" x="0" y="0">Oo</tspan><tspan class="cls-26" x="82.98" y="0">s</tspan><tspan class="cls-22" x="120.374" y="0">tende</tspan></text>
+    <text class="cls-19" transform="translate(49.25 925.024) scale(1.05 1)"><tspan class="cls-5" x="0" y="0">1</tspan><tspan class="cls-6" x="26.859" y="0">500</tspan><tspan class="cls-1" x="168.204" y="0"> </tspan><tspan class="cls-6" x="185.309" y="0">m</tspan></text>
+    <g>
+      <rect class="cls-16" x="796.968" y="308.98" width="127.614" height="82.927" rx="12.978" ry="12.978"/>
+      <text class="cls-23" transform="translate(803.13 382.064) scale(1.024 1)"><tspan class="cls-2" x="0" y="0">A</tspan><tspan class="cls-30" x="42.841" y="0">1</tspan><tspan class="cls-2" x="69.064" y="0">0</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-29" x="591.101" y="776.752" width="153.201" height="90.04" rx="12.978" ry="12.978"/>
+      <text class="cls-18" transform="translate(594.266 857.791) scale(1.024 1)"><tspan x="0" y="0">E40</tspan></text>
+    </g>
+  </g>
+</svg>

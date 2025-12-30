@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2621 3545.808">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 248.957px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        font-family: SnvBeckerCondensed, 'Snv Becker';
+      }
+
+      .cls-1, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 163.344px;
+      }
+
+      .cls-5 {
+        letter-spacing: .03em;
+      }
+
+      .cls-6 {
+        letter-spacing: .002em;
+      }
+
+      .cls-7, .cls-8, .cls-9, .cls-10 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7, .cls-9 {
+        fill: none;
+        stroke-width: 45px;
+      }
+
+      .cls-7, .cls-10 {
+        stroke: #fff;
+      }
+
+      .cls-11 {
+        letter-spacing: .03em;
+      }
+
+      .cls-8 {
+        fill: #ff7031;
+      }
+
+      .cls-8, .cls-9 {
+        stroke: #000;
+      }
+
+      .cls-8, .cls-10 {
+        stroke-width: 20px;
+      }
+
+      .cls-12 {
+        letter-spacing: .022em;
+      }
+
+      .cls-13 {
+        letter-spacing: .039em;
+      }
+
+      .cls-14 {
+        letter-spacing: .026em;
+      }
+
+      .cls-15 {
+        letter-spacing: .009em;
+      }
+
+      .cls-16 {
+        letter-spacing: .025em;
+      }
+
+      .cls-17 {
+        letter-spacing: .026em;
+      }
+
+      .cls-18 {
+        letter-spacing: .044em;
+      }
+
+      .cls-19, .cls-10 {
+        fill: #06f;
+      }
+
+      .cls-20 {
+        letter-spacing: .03em;
+      }
+
+      .cls-21 {
+        fill-rule: evenodd;
+      }
+
+      .cls-22 {
+        font-family: SnvBeckerRegular, 'Snv Becker';
+        font-size: 188.391px;
+      }
+
+      .cls-23 {
+        letter-spacing: .039em;
+      }
+
+      .cls-24 {
+        letter-spacing: .039em;
+      }
+
+      .cls-25 {
+        letter-spacing: .037em;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-4" width="2621" height="1523.808" rx="55.774" ry="55.774"/>
+    <rect class="cls-8" x="30" y="29.986" width="2561" height="1463.808" rx="25.774" ry="25.774"/>
+    <g>
+      <line class="cls-9" x1="478.265" y1="1386.565" x2="569.402" y2="1295.428"/>
+      <polygon points="481.717 1228.475 636.348 1383.106 636.329 1228.513 481.717 1228.475"/>
+    </g>
+    <g>
+      <rect class="cls-4" x="1093" y="1217.263" width="435" height="191" rx="20" ry="20"/>
+      <text class="cls-22" transform="translate(1116.67 1374.919)"><tspan class="cls-16" x="0" y="0">A</tspan><tspan class="cls-15" x="111.232" y="0">2</tspan><tspan class="cls-6" x="218.897" y="0">0</tspan><tspan class="cls-15" x="336.222" y="0">1</tspan></text>
+    </g>
+    <g>
+      <line class="cls-9" x1="2005.598" y1="1386.565" x2="2096.735" y2="1295.428"/>
+      <polygon points="2009.051 1228.475 2163.681 1383.106 2163.662 1228.513 2009.051 1228.475"/>
+    </g>
+    <text class="cls-2" transform="translate(646.854 833.52)"><tspan class="cls-20" x="0" y="0">B</tspan><tspan class="cls-13" x="120.034" y="0">r</tspan><tspan class="cls-20" x="199.71" y="0" xml:space="preserve">ussel  E</tspan><tspan class="cls-17" x="960.38" y="0">v</tspan><tspan class="cls-20" x="1057.438" y="0">e</tspan><tspan class="cls-24" x="1156.321" y="0">r</tspan><tspan class="cls-20" x="1235.876" y="0">e</tspan></text>
+    <g>
+      <rect class="cls-4" x="763.499" y="126.263" width="1094" height="373" rx="45.924" ry="45.924"/>
+      <g>
+        <text class="cls-3" transform="translate(1158.908 264.812)"><tspan class="cls-11" x="0" y="0">Z</tspan><tspan class="cls-12" x="67.909" y="0">a</tspan><tspan class="cls-14" x="134.462" y="0">v</tspan><tspan class="cls-5" x="198.144" y="0">entem</tspan></text>
+        <text class="cls-3" transform="translate(832.659 445.638)"><tspan class="cls-5" x="0" y="0">B</tspan><tspan class="cls-23" x="78.756" y="0">r</tspan><tspan class="cls-5" x="131.032" y="0">ussels Ai</tspan><tspan class="cls-25" x="672.344" y="0">r</tspan><tspan class="cls-5" x="724.222" y="0">po</tspan><tspan class="cls-18" x="856.211" y="0">r</tspan><tspan class="cls-5" x="909.205" y="0">t</tspan></text>
+      </g>
+      <path id="path19986-3" class="cls-21" d="M953.733,209.847c-5.065.028-10.131.516-15.111,1.479l-2.533.484-9.334-15.111h-7.114l2.618,17.046-2.618.967,2.618.996-2.618,17.046h7.114l9.334-15.111,2.533.484c4.98.968,10.045,1.451,15.111,1.451h20.062v10.728l-17.615,42.885h7.114l40.352-53.613h18.013c5.379.113,10.757-.226,16.078-.996h0c2.021-.282,3.984-.766,5.891-1.479h0c1.195-.428,2.22-1.281,2.846-2.39-.629-1.082-1.65-1.935-2.846-2.39v.028c-1.907-.71-3.87-1.224-5.891-1.508h0c-5.322-.766-10.7-1.081-16.078-.967h-18.013l-40.352-53.613h-7.114l17.615,42.856v10.728h-20.062Z"/>
+    </g>
+  </g>
+  <g>
+    <rect class="cls-19" y="2022" width="2621" height="1523.808" rx="55.774" ry="55.774"/>
+    <rect class="cls-10" x="30" y="2051.986" width="2561" height="1463.808" rx="25.774" ry="25.774"/>
+    <g>
+      <line class="cls-7" x1="478.265" y1="3408.565" x2="569.402" y2="3317.428"/>
+      <polygon class="cls-4" points="481.717 3250.475 636.348 3405.106 636.329 3250.513 481.717 3250.475"/>
+    </g>
+    <g>
+      <rect class="cls-4" x="1093" y="3239.263" width="435" height="191" rx="20" ry="20"/>
+      <text class="cls-22" transform="translate(1116.67 3396.919)"><tspan class="cls-16" x="0" y="0">A</tspan><tspan class="cls-15" x="111.232" y="0">2</tspan><tspan class="cls-6" x="218.897" y="0">0</tspan><tspan class="cls-15" x="336.222" y="0">1</tspan></text>
+    </g>
+    <g>
+      <line class="cls-7" x1="2005.598" y1="3408.565" x2="2096.735" y2="3317.428"/>
+      <polygon class="cls-4" points="2009.051 3250.475 2163.681 3405.106 2163.662 3250.513 2009.051 3250.475"/>
+    </g>
+    <text class="cls-1" transform="translate(646.854 2855.52)"><tspan class="cls-20" x="0" y="0">B</tspan><tspan class="cls-13" x="120.034" y="0">r</tspan><tspan class="cls-20" x="199.71" y="0" xml:space="preserve">ussel  E</tspan><tspan class="cls-17" x="960.38" y="0">v</tspan><tspan class="cls-20" x="1057.438" y="0">e</tspan><tspan class="cls-24" x="1156.321" y="0">r</tspan><tspan class="cls-20" x="1235.876" y="0">e</tspan></text>
+    <g>
+      <rect class="cls-4" x="763.499" y="2148.263" width="1094" height="373" rx="45.924" ry="45.924"/>
+      <g>
+        <text class="cls-3" transform="translate(1158.908 2286.812)"><tspan class="cls-11" x="0" y="0">Z</tspan><tspan class="cls-12" x="67.909" y="0">a</tspan><tspan class="cls-14" x="134.462" y="0">v</tspan><tspan class="cls-5" x="198.144" y="0">entem</tspan></text>
+        <text class="cls-3" transform="translate(832.659 2467.638)"><tspan class="cls-5" x="0" y="0">B</tspan><tspan class="cls-23" x="78.756" y="0">r</tspan><tspan class="cls-5" x="131.032" y="0">ussels Ai</tspan><tspan class="cls-25" x="672.344" y="0">r</tspan><tspan class="cls-5" x="724.222" y="0">po</tspan><tspan class="cls-18" x="856.211" y="0">r</tspan><tspan class="cls-5" x="909.205" y="0">t</tspan></text>
+      </g>
+      <path id="path19986-3-2" data-name="path19986-3" class="cls-21" d="M953.733,2231.847c-5.065.028-10.131.516-15.111,1.479l-2.533.484-9.334-15.111h-7.114l2.618,17.046-2.618.967,2.618.996-2.618,17.046h7.114l9.334-15.111,2.533.484c4.98.968,10.045,1.451,15.111,1.451h20.062v10.728l-17.615,42.885h7.114l40.352-53.613h18.013c5.379.113,10.757-.226,16.078-.996h0c2.021-.282,3.984-.766,5.891-1.479h0c1.195-.428,2.22-1.281,2.846-2.39-.629-1.082-1.65-1.935-2.846-2.39v.028c-1.907-.71-3.87-1.224-5.891-1.508h0c-5.322-.766-10.7-1.081-16.078-.967h-18.013l-40.352-53.613h-7.114l17.615,42.856v10.728h-20.062Z"/>
+    </g>
+  </g>
+</svg>
